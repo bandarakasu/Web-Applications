@@ -1,8 +1,8 @@
 import React, { useState, useRef, useEffect } from 'react';
 import { Play, Pause, ArrowLeft, CreditCard, FileText, Clipboard, Package, Calculator, Radio, Volume2, Settings, Code, Moon, Sun, Sparkles, Zap, Shield, Globe, Wifi, WifiOff, Loader2, Music, Star, Heart, Palette } from 'lucide-react';
-import Thorana from './components/Thorana';
-import AnimatedBackground from './components/AnimatedBackground';
-import DarkModeToggle from './components/DarkModeToggle';
+import Thorana from './Thorana';
+import AnimatedBackground from './AnimatedBackground';
+import DarkModeToggle from './DarkModeToggle';
 
 interface Station {
   name: string;
