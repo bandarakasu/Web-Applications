@@ -1,0 +1,12 @@
+
+### 🎉 **Success!**
+
+- ✅ Your site is now live!
+- 🌐 `https://your-site-name.netlify.app`
+- 🔄 Auto-deploy on git push
+- 📱 Mobile responsive
+- 🌙 Dark/Light mode working
+
+### 🛠️ **Troubleshooting**
+
+**Build අසම්පති වුණොත්:**
